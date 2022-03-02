@@ -2,9 +2,9 @@
 
 ## Group members
 
-1. 021-19-0052 Ali Hamza
-2. 021-19-0051 M Raheal Safdar
-3. 021-19-0008 Sandesha Kataria
+1 021-19-0052 Ali Hamza
+2 021-19-0051 M Raheal Safdar
+3 021-19-0008 Sandesha Kataria
 
 ## Project Details
 
